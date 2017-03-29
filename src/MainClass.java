@@ -24,6 +24,8 @@ public class MainClass {
 
         helloName("Друг");
 
+        System.out.println("ПРИВЕТ");
+
 
     }
 
@@ -46,6 +48,8 @@ public class MainClass {
         System.out.println("Привет, "+a+"!");
 
     }
+
+
 
 
 }
